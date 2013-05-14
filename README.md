@@ -1,5 +1,4 @@
-RSA cryptography
-So far I am working on reading the material about introduction of RSA, future direction and application as well as RSA problem. 
+I am planing do my individual paper focused on RSA cryptography. So far I am working on reading the material about introduction of RSA, future direction and application as well as RSA problem. 
 brief outline of my eassy:
 
 INTRODUCTION
