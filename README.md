@@ -4,7 +4,7 @@ So far I am working on reading the material about introduction of RSA, future di
 brief outline of my eassy:
 
 INTRODUCTION
-people and real world application)
+//people and real world application)
 ref:http://en.wikipedia.org/wiki/RSA_(algorithm)
 
 KEY ELEMENT/BACKGROUND
